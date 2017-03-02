@@ -3,14 +3,14 @@ package cn.edu.chzu.xxxy.sp15.ldl.accountms;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import android.support.v7.app.ActionBarActivity;
+import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends Activity {
 	final String TAG = "***ÉúÃüÖÜÆÚ***"; 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
